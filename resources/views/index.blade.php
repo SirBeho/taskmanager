@@ -13,7 +13,7 @@
 </head>
 
 <body class="antialiased">
-    <div class="flex justify-center items-center min-h-screen  font-['Open_Sans'] ">
+    <div class="flex justify-center items-center min-h-screen  font-['Open_Sans'] bg-blue-100 ">
        
             <div class=" ">
                
