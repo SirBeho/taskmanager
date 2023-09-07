@@ -1,6 +1,6 @@
 # Sistema de Gestión de Tareas en Laravel
 
-![Vista previa del sistema](ruta/a/imagen.png)
+
 
 ## Descripción
 
